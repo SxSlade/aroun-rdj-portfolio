@@ -12,7 +12,7 @@ function App() {
           Work In Progress, please take a look at my LinkedIn Account
         </p>
         <p>
-          Clic or Scan
+          Click or Scan
         </p>
         <ArrowDownwardIcon fontSize='large' />
         <a href='https://www.linkedin.com/in/aroun-radjavelou/'>
